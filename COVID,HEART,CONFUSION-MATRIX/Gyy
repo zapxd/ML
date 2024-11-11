@@ -1,0 +1,2 @@
+Precision and recall often have an inverse relationship. Increasing one might decrease the other. This trade-off is crucial to consider when evaluating a classification model.
+ * The ideal scenario is to have both high precision and high recall, but this is not always achievable. The choice of which metric to prioritize depends on the specific use case and the relative importance of minimizing false positives versus false
